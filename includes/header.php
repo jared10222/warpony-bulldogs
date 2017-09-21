@@ -48,7 +48,7 @@ include_once "functions.php";
       <div class="row">
         <div class="col-12 main-header">
           <div class="logo-wrapper">
-            <a href="/"><img class="img-fluid" src="images/logo-2.png" alt="Warpony Bulldogs Logo" /></a>
+            <a href="/"><img class="img-fluid" src="images/logo-3.png" alt="Warpony Bulldogs Logo" /></a>
           </div><!--end logo-wrapper-->
         </div>
       </div><!--end row-->
